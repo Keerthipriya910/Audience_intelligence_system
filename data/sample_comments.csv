@@ -1,0 +1,41 @@
+comment_id,text,label,published_at,like_count,reply_count,video_id
+c001,"I absolutely love this video, the explanation is crystal clear!",positive,2026-09-01T10:10:00Z,41,4,sample-research-video
+c002,The audio is terrible and I can barely hear the speaker.,negative,2026-09-01T10:14:00Z,28,7,sample-research-video
+c003,Nice content but the volume is too low on headphones.,negative,2026-09-01T10:22:00Z,19,3,sample-research-video
+c004,"This was helpful, especially the final example.",positive,2026-09-01T11:05:00Z,33,2,sample-research-video
+c005,I am not sure about the second point.,neutral,2026-09-01T11:18:00Z,5,1,sample-research-video
+c006,Worst sound mixing. Music is louder than the voice.,negative,2026-09-01T11:31:00Z,37,8,sample-research-video
+c007,Amazing editing and very clean visuals 🔥,positive,2026-09-01T12:10:00Z,61,6,sample-research-video
+c008,"The video is okay, nothing special for me.",neutral,2026-09-01T12:40:00Z,7,0,sample-research-video
+c009,"बहुत अच्छा वीडियो, explanation भी clear है",positive,2026-09-02T08:15:00Z,22,3,sample-research-video
+c010,"audio बहुत खराब है, speaker की आवाज़ सुनाई नहीं दे रही",negative,2026-09-02T08:31:00Z,30,5,sample-research-video
+c011,"मुझे यह tutorial पसंद आया, काफी helpful है",positive,2026-09-02T09:00:00Z,18,2,sample-research-video
+c012,वीडियो ठीक है लेकिन थोड़ा लंबा है,neutral,2026-09-02T09:42:00Z,4,0,sample-research-video
+c013,"ఈ వీడియో చాలా బాగుంది, explanation super",positive,2026-09-03T07:05:00Z,26,4,sample-research-video
+c014,"audio బాగోలేదు, volume చాలా low ఉంది",negative,2026-09-03T07:29:00Z,31,7,sample-research-video
+c015,"చాలా useful tutorial, thank you!",positive,2026-09-03T07:52:00Z,17,2,sample-research-video
+c016,video okay కానీ explanation కొంచెం fast గా ఉంది,neutral,2026-09-03T08:11:00Z,6,1,sample-research-video
+c017,"Can't hear the speaker after 04:20, please fix the audio.",negative,2026-09-04T12:22:00Z,44,11,sample-research-video
+c018,"Gameplay section was fantastic, exactly what I needed.",positive,2026-09-04T12:48:00Z,36,5,sample-research-video
+c019,The gameplay looks slow and boring in the middle.,negative,2026-09-04T13:12:00Z,13,2,sample-research-video
+c020,I watched it twice. Great tutorial and very useful.,positive,2026-09-04T13:25:00Z,42,3,sample-research-video
+c021,Why is the background music so loud? It ruins the explanation.,negative,2026-09-05T15:03:00Z,39,9,sample-research-video
+c022,The camera quality and editing are excellent.,positive,2026-09-05T15:19:00Z,21,2,sample-research-video
+c023,"I expected more examples, but overall it is fine.",neutral,2026-09-05T16:02:00Z,8,1,sample-research-video
+c024,Terrible pacing and the important part feels rushed.,negative,2026-09-05T16:17:00Z,15,4,sample-research-video
+c025,"बहुत useful था, ऐसे और videos बनाइए",positive,2026-09-06T09:11:00Z,29,3,sample-research-video
+c026,"sound issue अभी भी है, volume बहुत low",negative,2026-09-06T09:26:00Z,24,6,sample-research-video
+c027,తెలుగులో subtitles ఉంటే ఇంకా బాగుంటుంది,neutral,2026-09-06T10:00:00Z,12,2,sample-research-video
+c028,"చాలా బాగా explain చేశారు, loved it",positive,2026-09-06T10:14:00Z,35,4,sample-research-video
+c029,The creator explains concepts well but audio noise is distracting.,negative,2026-09-07T14:10:00Z,20,3,sample-research-video
+c030,"Nothing wrong with it, just not very interesting.",neutral,2026-09-07T14:44:00Z,3,0,sample-research-video
+c031,Excellent walkthrough. The examples made it easy to learn.,positive,2026-09-08T06:32:00Z,47,5,sample-research-video
+c032,Volume is low and there is a strange echo throughout.,negative,2026-09-08T06:51:00Z,34,8,sample-research-video
+c033,"Wow, the new editing style looks amazing.",positive,2026-09-08T07:21:00Z,52,4,sample-research-video
+c034,This part confused me. Can someone explain it differently?,neutral,2026-09-08T07:45:00Z,9,3,sample-research-video
+c035,The gameplay tips are great but the intro is too long.,positive,2026-09-09T18:03:00Z,17,1,sample-research-video
+c036,I hate the loud music over the narration.,negative,2026-09-09T18:40:00Z,27,6,sample-research-video
+c037,"बहुत खराब sound, बाकी content अच्छा है",negative,2026-09-10T11:00:00Z,25,5,sample-research-video
+c038,content अच्छा है और examples भी useful हैं,positive,2026-09-10T11:27:00Z,23,3,sample-research-video
+c039,audio low ఉంది కానీ content చాలా useful,neutral,2026-09-10T12:03:00Z,14,2,sample-research-video
+c040,బాగుంది! editing and explanation రెండూ excellent,positive,2026-09-10T12:35:00Z,32,4,sample-research-video

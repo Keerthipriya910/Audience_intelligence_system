@@ -1,0 +1,23 @@
+PRISMPULSE AI — START HERE
+
+Windows:
+1. Install Python 3.11 (64-bit).
+2. Double-click run_dashboard.bat
+   - If .venv does not exist, setup runs automatically.
+   - The browser dashboard then opens.
+3. Use Demo Mode first to verify the UI.
+4. Use Research Mode for actual model/FAISS/BERTopic measurements.
+
+Optional credentials:
+- Put YOUTUBE_API_KEY in .env for live YouTube comments.
+- Put XAI_API_KEY in .env for the Grok conversational tab.
+- Do not paste keys into source code.
+
+Research experiments:
+Double-click run_research_experiments.bat
+
+REST API:
+Double-click run_api.bat
+
+Important:
+Demo Mode results are not research evidence. Only Research Mode outputs should be used in the paper.
